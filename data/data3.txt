@@ -1,1 +1,3 @@
-student female other
+student
+female
+other
